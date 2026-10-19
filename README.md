@@ -2,6 +2,17 @@
 
 中文方法论网页，面向巡检机器人初版 baseline 的论文理解与复现。
 
+## 选择阅读版本
+
+仓库保留两份独立讲解，可按需要选择：
+
+| 版本 | 在线阅读 | 仓库文件 | 内容说明 |
+| --- | --- | --- | --- |
+| 原版论文精读 | [打开原版](https://chensrfurina.github.io/FYP_ref_paper/) | [index.html](./index.html) | 原有讲解，保留原文、搜索、展开内容与交互演示。 |
+| 新版四篇详细讲解 | [打开新版](https://chensrfurina.github.io/FYP_ref_paper/quadruped-rl-paper-guide.html) | [quadruped-rl-paper-guide.html](./quadruped-rl-paper-guide.html) | 逐篇详解教师—学生框架、奖励公式、网络结构和训练流程，包含官方代码核对、四篇比较与巡检 baseline 路线。 |
+
+两份 HTML 都可下载后直接用浏览器打开，支持离线阅读。新增版本不覆盖原版页面，原来的在线地址保持有效。新版核对日期：2026-10-19。
+
 ## 内容
 
 - Rapid Locomotion via Reinforcement Learning（2205.02824v1）
